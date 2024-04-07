@@ -1,6 +1,18 @@
 <h1 align-"center"> Juan Manuel Pacheco </h1>
 <h3 align="center"> Computer Engineering student </h3>
 
+<p align="center">
+  In my fourth year of computer engineering, currently studying React.
+</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/juan-manuel-pacheco-18a5a422a/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
+  </a> &nbsp; 
+  <a href="mailto:juanm.pachecogarcia@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/>
+</p>
+
 <h3>Languajes</h3>
 
 <p align="left"> 
