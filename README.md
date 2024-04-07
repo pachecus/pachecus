@@ -1,4 +1,4 @@
-### Juan Manuel Pacheco
+# Juan Manuel Pacheco
 I am a Computing Engineering Student currently studying React, JavaScript and SQL (PostrgeSQL)
 
 <!--
