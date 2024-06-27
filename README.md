@@ -33,3 +33,17 @@
   <br>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <!-- GitHub -->
 </p>
+<p align="center">
+I am currently studying my fifth year of
+Software Engineering.
+I am an organized, responsible person
+with a strong proficiency in English. I
+consider myself to be self-taught,
+productive, and capable of managing
+multiple tasks efficiently. I have experience
+working in teams and feel that I thrive in
+collaborative environments.
+Additionally, I develop my own projects,
+which are available on my GitHub, as I
+enjoy learning about new technologies.
+</p>
