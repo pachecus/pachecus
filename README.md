@@ -1,5 +1,5 @@
 <h1 align="center"> Juan Manuel Pacheco </h1>
-<h3 align="center"> Computer Engineering student </h3>
+<h3 align="center"> Computer Engineering Student </h3>
 
 <p align="center">
   In my fifth year of computer engineering, currently studying React, JavaScript and PostgreSQL.
