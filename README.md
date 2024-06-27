@@ -11,6 +11,7 @@
   </a> &nbsp; 
   <a href="mailto:juanm.pachecogarcia@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/>
+  </a>
 </p>
 
 <h3>Languages</h3>
