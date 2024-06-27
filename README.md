@@ -33,6 +33,6 @@
   <br>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <!-- GitHub -->
 </p>
-<p align="center" margin-right=10%>
+<p align="center" margin-right=10% margin-left=10%>
 Welcome to my GitHub repository. Here you will find personal projects that I have developed, as well as projects I have completed for college. If you have any ideas you'd like to develop, please let me know. I'm always open to creating and learning new things.
 </p>
