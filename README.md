@@ -2,7 +2,7 @@
 <h3 align="center"> Computer Engineering Student </h3>
 
 <p align="center">
-  In my fifth year of computer engineering, currently studying React, JavaScript and PostgreSQL.
+  In the fourth year of computer engineering, currently studying React, JavaScript and PostgreSQL.
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
